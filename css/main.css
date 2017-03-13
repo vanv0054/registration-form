@@ -3,6 +3,10 @@ html {
   color: #000;
 }
 
+h1 {
+  border-bottom: 1px solid #000;
+}
+
 legend {
   padding-right: 1em;
 }
@@ -11,15 +15,12 @@ form {
   background-color: #fff;
 }
 
-body {
-  border: #f2f2f2;
-}
-
 @media only screen and (min-width: 60em) {
 
   .space-right {
     padding-right: .5em;
   }
+
   .space-left {
     padding-left: .5em;
   }
