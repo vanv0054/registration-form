@@ -11,7 +11,7 @@ legend {
   padding-right: 1em;
 }
 
-form {
+section {
   background-color: #fff;
 }
 
@@ -23,6 +23,10 @@ form {
 
   .space-left {
     padding-left: .5em;
+  }
+
+  html {
+    background-color: #f2f2f2;
   }
 
 }
