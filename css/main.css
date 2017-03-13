@@ -1,9 +1,16 @@
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 legend {
   padding-right: 1em;
+}
+
+.space-right {
+  padding-right: .5em;
+}
+.space-left {
+  padding-left: .5em;
 }
 
 @media only screen and (min-width: 60em) {
