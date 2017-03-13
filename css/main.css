@@ -1,3 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
+legend {
+  padding-right: 1em;
+}
