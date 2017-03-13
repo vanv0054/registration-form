@@ -1,7 +1,15 @@
-body {
+html {
   font-family: 'Open Sans', sans-serif;
 }
 
 legend {
   padding-right: 1em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+
+  }
+
 }
