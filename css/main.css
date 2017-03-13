@@ -1,5 +1,6 @@
 html {
   font-family: "Open Sans", sans-serif;
+  color: #000;
 }
 
 legend {
@@ -13,10 +14,16 @@ legend {
   padding-left: .5em;
 }
 
+form {
+  background-color: #fff;
+}
+
+body {
+  border: #f2f2f2;
+}
+
 @media only screen and (min-width: 60em) {
 
-  html {
 
-  }
 
 }
