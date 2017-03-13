@@ -7,13 +7,6 @@ legend {
   padding-right: 1em;
 }
 
-.space-right {
-  padding-right: .5em;
-}
-.space-left {
-  padding-left: .5em;
-}
-
 form {
   background-color: #fff;
 }
@@ -24,6 +17,11 @@ body {
 
 @media only screen and (min-width: 60em) {
 
-
+  .space-right {
+    padding-right: .5em;
+  }
+  .space-left {
+    padding-left: .5em;
+  }
 
 }
